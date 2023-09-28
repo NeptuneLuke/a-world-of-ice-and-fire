@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "aworldoficeandfire:item/valyrian_steel_shard"
+  }
+}

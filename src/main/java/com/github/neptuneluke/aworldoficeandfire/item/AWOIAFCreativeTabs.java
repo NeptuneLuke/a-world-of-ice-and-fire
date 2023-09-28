@@ -32,7 +32,14 @@ public class AWOIAFCreativeTabs {
                     .title(Component.translatable("creativetab.items_tab"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(AWOIAFItems.WEIRWOOD_STICK.get());
-                        pOutput.accept(AWOIAFItems.WEIRWOOD_ARROW.get());
+                        pOutput.accept(AWOIAFItems.RAW_BRONZE.get());
+                        pOutput.accept(AWOIAFItems.BRONZE_INGOT.get());
+                        pOutput.accept(AWOIAFItems.STEEL_SCRAP.get());
+                        pOutput.accept(AWOIAFItems.STEEL_INGOT.get());
+                        pOutput.accept(AWOIAFItems.DRAGON_GLASS_SHARD.get());
+                        pOutput.accept(AWOIAFItems.DRAGON_GLASS_FLAKE.get());
+                        pOutput.accept(AWOIAFItems.VALYRIAN_STEEL_SHARD.get());
+                        pOutput.accept(AWOIAFItems.VALYRIAN_STEEL_INGOT.get());
                     })
                     .build());
 
@@ -53,7 +60,6 @@ public class AWOIAFCreativeTabs {
                     .icon(() -> new ItemStack(AWOIAFItems.WEIRWOOD_STICK.get()))
                     .title(Component.translatable("creativetab.weapons_tab"))
                     .displayItems((pParameters, pOutput) -> {
-                        pOutput.accept(AWOIAFItems.WEIRWOOD_STICK.get());
                         pOutput.accept(AWOIAFItems.WEIRWOOD_ARROW.get());
                     })
                     .build());
