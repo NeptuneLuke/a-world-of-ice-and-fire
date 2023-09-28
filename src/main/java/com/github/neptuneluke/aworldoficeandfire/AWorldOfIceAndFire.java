@@ -1,5 +1,6 @@
 package com.github.neptuneluke.aworldoficeandfire;
 
+import com.github.neptuneluke.aworldoficeandfire.block.AWOIAFBlocks;
 import com.github.neptuneluke.aworldoficeandfire.item.AWOIAFCreativeTabs;
 import com.github.neptuneluke.aworldoficeandfire.item.AWOIAFItems;
 import com.mojang.logging.LogUtils;
@@ -30,6 +31,7 @@ public class AWorldOfIceAndFire {
 
         AWOIAFCreativeTabs.register(modEventBus);
         AWOIAFItems.register(modEventBus);
+        AWOIAFBlocks.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);

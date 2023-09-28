@@ -13,5 +13,8 @@
   "item.aworldoficeandfire.dragon_glass_flake": "Scaglia di vetro di drago",
   "item.aworldoficeandfire.dragon_glass_shard": "Frammento di vetro di drago",
   "item.aworldoficeandfire.valyrian_steel_ingot": "Lingotto di acciaio di Valyria",
-  "item.aworldoficeandfire.valyrian_steel_shard": "Frammento di acciaio di Valyria"
+  "item.aworldoficeandfire.valyrian_steel_shard": "Frammento di acciaio di Valyria",
+
+  "block.aworldoficeandfire.bronze_block": "Blocco di bronzo",
+  "block.aworldoficeandfire.bronze_ore": "Minerale di bronzo"
 }

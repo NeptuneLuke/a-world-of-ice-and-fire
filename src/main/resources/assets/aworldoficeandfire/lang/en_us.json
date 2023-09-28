@@ -13,5 +13,8 @@
   "item.aworldoficeandfire.dragon_glass_flake": "Dragon Glass Flake",
   "item.aworldoficeandfire.dragon_glass_shard": "Dragon Glass Shard",
   "item.aworldoficeandfire.valyrian_steel_ingot": "Valyrian Steel Ingot",
-  "item.aworldoficeandfire.valyrian_steel_shard": "Valyrian Steel Shard"
+  "item.aworldoficeandfire.valyrian_steel_shard": "Valyrian Steel Shard",
+
+  "block.aworldoficeandfire.bronze_block": "Block of Bronze",
+  "block.aworldoficeandfire.bronze_ore": "Bronze Ore"
 }
