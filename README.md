@@ -1,4 +1,5 @@
-<img src="https://pasteboard.co/6iRicerBzFSO.png"  width="128" height="128" />
+<img src="https://i.imgur.com/vMpdfku.png" width="1024" height="256">
+
 # A World of Ice and Fire
 
 **A World of Ice and Fire (AWOIAF)** is a mod that tries to bring to Minecraft 
